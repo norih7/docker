@@ -1,12 +1,12 @@
 docker
 ====
 
-Overview
-
-## Description
 個人開発用のdockerリポジトリ。
 
-|リポジトリ|説明|
+## Description
+各ディレクトリのdockerイメージ詳細。
+
+|ディレクトリ|説明|
 |--|--|
 |brush-clover|個人サイトbrushClover用|
 |shell-scripts|docker操作のシェルスクリプト|
